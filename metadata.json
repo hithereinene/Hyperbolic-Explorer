@@ -1,0 +1,6 @@
+{
+  "name": "Hyperbolic Explorer",
+  "description": "N-dimensional Hyperbolic Visualization with Schlegel and Coxeter-Dynkin based generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
